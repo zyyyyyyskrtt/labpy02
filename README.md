@@ -6,7 +6,7 @@ Mata kuliah : Bahasa Pemrograman <p>
 ## program pemesanan tiket
 ### flowchart
 ini dalam bentuk flowchart
-![gambar 1](screen/gmb1.png)
+![gambar 1](screen/gmb3.png)
 - **Mulai:** awal proses dimulai <p>
 - **Inisialisasi Harga Tiket:** <p>
 Tentukan harga tiket:<p>
@@ -34,8 +34,8 @@ Jika tidak, harga akhir tetap sama dengan harga tiket.<p>
 
 ### python
 ini dalam bentuk program python
-![gambar 2](screen/gmb2.png)
+![gambar 2](screen/gmb1.png)
 
 ### hasil 
 ini hasil eksekusi dari program python di atas
-![gambar 3](screen/gmb3.png)
+![gambar 3](screen/gmb2.png)
