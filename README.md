@@ -39,3 +39,13 @@ ini dalam bentuk program python
 ### hasil 
 ini hasil eksekusi dari program python di atas
 ![gambar 3](screen/gmb2.png)
+
+## kalkulator sederhana
+### Flowchart
+![gambar 4](screen/gmb6.png)
+
+### program python
+![gambar 5](screen/gmb4.png)
+
+### hasil
+![gambar 6](screen/gmb5.png)
