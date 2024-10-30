@@ -42,10 +42,10 @@ ini hasil eksekusi dari program python di atas
 
 ## kalkulator sederhana
 ### Flowchart
-![gambar 4](screen/gmb6.png)
+![gambar 4](screen/gmb4.png)
 
 ### program python
-![gambar 5](screen/gmb4.png)
+![gambar 5](screen/gmb5.png)
 
 ### hasil
-![gambar 6](screen/gmb5.png)
+![gambar 6](screen/gmb6.png)
