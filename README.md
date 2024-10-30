@@ -43,7 +43,21 @@ ini hasil eksekusi dari program python di atas
 ## kalkulator sederhana
 ### Flowchart
 ![gambar 4](screen/gmb4.png)
-
+### penjelasan flowchart
+elasan unutk flowchart di atas*
+- *Mulai:* Awal proses.
+- *Input Angka Pertama:* Meminta pengguna memasukkan angka pertama.
+- *Input Angka Kedua:* Meminta pengguna memasukkan angka kedua.
+- *Input Operator Aritmatika:* Meminta pengguna memasukkan operator aritmatika (penjumlahan, pengurangan, perkalian, atau pembagian).
+- *Pilih Operator Aritmatika:* <p>
+Jika operator adalah +, lakukan penjumlahan. <p>
+Jika operator adalah -, lakukan pengurangan. <p>
+Jika operator adalah *, lakukan perkalian. <p>
+Jika operator adalah /, lakukan pembagian (dengan pengecekan pembagian nol). <p>
+Jika operator tidak valid, tampilkan pesan kesalahan. <p>
+- *Hitung Hasil:* Hitung hasil operasi aritmatika berdasarkan operator yang dipilih.
+- *Tampilkan Hasil:* Tampilkan hasil perhitungan kepada pengguna.
+- *Selesai:* Akhir proses
 ### program python
 ![gambar 5](screen/gmb5.png)
 
